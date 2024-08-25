@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956326411635",
+    "project_id": "login-e2e82",
+    "storage_bucket": "login-e2e82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956326411635:android:53d6b415beb2827fb21906",
+        "android_client_info": {
+          "package_name": "com.hack.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZE3ZrqyJhwu3A8wtFwngf8YwtgZL1xDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
